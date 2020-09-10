@@ -1,6 +1,7 @@
 # Welcome to Halo 5 API React App
 
 In this app you will find basic features of a student's first time building a react application
+
 Features include:
 
 ### `JSON Data`
