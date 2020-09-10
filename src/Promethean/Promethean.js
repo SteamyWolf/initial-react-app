@@ -9,7 +9,7 @@ const promethean = () => {
         return (
             <div className="card" key={promo.id}>
                 <h2>{promo.name}</h2>
-                <img src={promo.smallIconImageUrl}></img>
+                <img src={promo.smallIconImageUrl} alt="alien"></img>
             </div>
         )
     })

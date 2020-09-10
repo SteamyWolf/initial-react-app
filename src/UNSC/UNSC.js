@@ -24,7 +24,7 @@ class UNSC extends Component {
             <div className="UNSC" style={style}>
                 <div className="card" style={cardStyle}>
                     <h2>{halo[0].name}</h2>
-                    <img src={halo[0].smallIconImageUrl}></img>
+                    <img src={halo[0].smallIconImageUrl} alt="UNSC marine"></img>
                 </div>
             </div>
         )

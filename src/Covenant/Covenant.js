@@ -8,7 +8,7 @@ const covenant = () => {
     return (
         <div key={enemy.id} className="card">
             <h2>{enemy.name}</h2>
-            <img src={enemy.largeIconImageUrl}></img>
+            <img src={enemy.largeIconImageUrl} alt="alien"></img>
         </div>
     )
   })
