@@ -62,7 +62,12 @@ const style = {
         } 
 ```
 
-###
+### Where to find this app hosted online:
+
+You can find this app hosted by Netlify by [Clicking Here](https://initial-react-app-halo-5-api.netlify.app).
+
+
+# React Information
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
